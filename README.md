@@ -11,10 +11,9 @@ I’m passionate about **building intelligent systems end-to-end**: Developing a
 - 🧠 **AI / Deep Learning & GenAI** — Model architecture, evaluation, applied NLP, and understanding how models improve real systems.
 - ⚙️ **Backend & Software Architecture** — Designing scalable APIs, data pipelines, and AI-driven workflows in production.
 - ⚡ **High-Performance Systems** — Low-latency design, high throughput, and extensive observability.
-- ☁️ **Cloud & Deployment**  
-  Building and deploying prod-ready AI systems on AWS with scalability and reliability in mind.
-- 📊 **Finance + AI**
-  Applied AI & DeepLearning while maintaingin performance to financial systems.
+- ☁️ **Cloud & Deployment** — Building and deploying prod-ready AI systems on AWS with scalability and reliability in mind.
+- 📊 **Finance + AI** — Applied AI & DeepLearning while maintaingin performance to financial systems.
+
 I care deeply about **clean code, clear abstractions, and thoughtful design trade-offs**.
 
 ---
